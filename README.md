@@ -11,7 +11,7 @@ Open your command prompt or PowerShell and type:
 ```bash
 git clone https://github.com/MatrixAIPy/snake-python.git
 cd snake-python
-python main.py
+python Snake.py
 ```
 
 ## Controls:
